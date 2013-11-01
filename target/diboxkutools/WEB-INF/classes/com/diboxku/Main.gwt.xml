@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='main'>
+	<!-- Inherit the core Web Toolkit stuff.    -->                   
+	<inherits name='com.google.gwt.user.User' />
+	<inherits name='com.google.gwt.i18n.I18N' />
+	<inherits name='com.google.gwt.user.theme.standard.Standard' />
+    <inherits name='com.extjs.gxt.ui.GXT' /> 
+    <inherits name="com.google.gwt.core.Core" />
+    <inherits name="com.google.gwt.user.History" />
+    <inherits name="com.google.gwt.http.HTTP" />
+    <inherits name="com.google.gwt.json.JSON" />
+	<entry-point class="com.diboxku.client.Main"></entry-point>
+	
+<!-- uncomment if production -->
+	<stylesheet src="/diboxkutools/css/gxt-all.css" />
+ 	<stylesheet src="/diboxkutools/resources/css/gxt-all.css" />
+	<stylesheet src="/diboxkutools/css/resources.css" />
+	<stylesheet src="/diboxkutools/css/icons.css" />
+	<stylesheet src="/diboxkutools/js/ext/resources/css/ext-all.css" />
+	<script src="/diboxkutools/js/ext/adapter/ext/ext-base.js" />
+	<script src="/diboxkutools/js/ext/ext-all.js" /> 
+<!-- uncomment if development -->	
+	<!-- <stylesheet src="/css/gxt-all.css" />
+ 	<stylesheet src="/resources/css/gxt-all.css" />
+	<stylesheet src="/css/resources.css" />
+	<stylesheet src="/css/icons.css" />
+	<stylesheet src="/js/ext/resources/css/ext-all.css" />
+	<script src="/js/ext/adapter/ext/ext-base.js" />
+	<script src="/js/ext/ext-all.js" /> -->
+	
+	
+	<!-- Inherit the core Web Toolkit stuff.    -->
+	<source path='client' />
+	<source path='shared' />
+
+</module>

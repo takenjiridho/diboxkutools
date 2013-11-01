@@ -1,0 +1,5 @@
+# Module diboxkutools
+# RPC service class, partial path of RPC policy file
+com.diboxku.client.app.service.DiboxkuToolsService, BCF443F11DA33C059653C8D3013234AA.gwt.rpc
+com.diboxku.client.GreetingService, 0E8796534310287C396EECC6B973F916.gwt.rpc
+com.diboxku.client.app.service.DiboxkuToolsRpc, 2C4692E317FEDB7D0FF9143295704115.gwt.rpc

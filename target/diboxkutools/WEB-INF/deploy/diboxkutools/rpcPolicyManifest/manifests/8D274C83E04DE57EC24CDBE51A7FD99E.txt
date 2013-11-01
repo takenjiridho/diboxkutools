@@ -1,0 +1,2 @@
+serviceClass: com.diboxku.client.GreetingService
+path: 0E8796534310287C396EECC6B973F916.gwt.rpc

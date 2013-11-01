@@ -1,0 +1,2 @@
+serviceClass: com.diboxku.client.app.service.DiboxkuToolsRpc
+path: 321AC2009E164B1DCEC157EEBB6F08FF.gwt.rpc
